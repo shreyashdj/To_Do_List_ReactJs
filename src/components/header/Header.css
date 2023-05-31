@@ -1,0 +1,29 @@
+.header {
+  padding: 10px 0;
+  background-color: skyblue;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo-content {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2cm;
+}
+
+
+.header-text {
+  margin: 20px;
+  font: normal normal bold 30px/35px Montserrat;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0px;
+  color: white;
+}
+
+h3 {
+  margin-left: 2cm;
+}
+
+.button {
+    margin-left: 2cm;
+}

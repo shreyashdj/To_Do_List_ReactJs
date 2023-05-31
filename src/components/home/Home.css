@@ -1,0 +1,31 @@
+.list {
+  background-color: #f6f1f1;
+  margin: 40px;
+  box-sizing: border-box;
+  min-height: 5cm;
+}
+
+.add {
+  background-color: #f6f1f1;
+  margin: 40px;
+  box-sizing: border-box;
+  height: 3cm;
+}
+
+.tag {
+  padding: 10px;
+}
+
+.row-content{
+  display: flex;
+  justify-items: flex-start;
+  flex-direction: row;
+}
+
+.add-button {
+  margin-left: 10px;
+}
+
+.delete-button {
+  margin-left: 10px;
+}
